@@ -1,4 +1,4 @@
-# Notes – CRN OMOP Mapping (Version vX.Y)
+# Notes – CRN OMOP Mapping (Version v2.1)
 
 This document contains free-form notes related to this specific version of the CRN OMOP mapping package.  
 Use it to capture decisions, assumptions, discussions, and contextual information that is useful for future maintainers.
