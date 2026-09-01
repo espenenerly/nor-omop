@@ -9,6 +9,7 @@ This directory contains mapping specifications, documentation, and release infor
 **2025.1**
 
 CDM release date: 27.07.2026
+
 Source data release data: 24.07.2026
 
 ## Scope
@@ -36,6 +37,10 @@ Detailed source data provenance information are maintained in the Cancer Registr
 | Release | Status |
 |----------|----------|
 | 2025.1 | Current |
+| 2.2 | Archived|
+| 2.1 | Archived|
+| 2.0 | Archived|
+| 1.0 | Archived|
 
 ## Changelog
 
