@@ -1,19 +1,21 @@
 # CHANGELOG
 
-All notable changes to the CRN-OMOP implementation are documented in this file.
+Notable changes to the CRN-OMOP implementation are documented in this file.
 
-The changelog summarizes major changes to data content, ETL processes, mappings and documentation.
+The changelog summarizes major changes to data content and ETL processes.
 
 ---
 
-## [2025.1]
+## Version 2025.1
+
+CDM release date: 29.07.2026
 
 ### New data sources
 - Expanded breast cancer, colorectal cancer and melanoma content.
 - Added 2025 incident cancer cases.
 
 ### Clinical content
-- Added comorbidity measures (CCI).
+- Added comorbidity measures.
 - Added recurrence and progression information for selected cancers.
 - Added additional molecular biomarkers.
 
@@ -24,7 +26,11 @@ The changelog summarizes major changes to data content, ETL processes, mappings 
 
 ---
 
-## [2025.2 (~2.2)]
+## Version 2024.2
+
+CDM release date: 12.03.2026
+
+Aka v2.2
 
 ### New data sources
 - Added data from the Norwegian Registry of Lymphoid Malignancies.
@@ -41,12 +47,17 @@ The changelog summarizes major changes to data content, ETL processes, mappings 
 - Improved alignment with OHDSI Oncology conventions.
 - Minor mapping corrections 
 ### Vocabulary
-- Update to 27-FEB-2026
+- Updated to 27-FEB-2026
 ---
 
-## [2024.2 (~2.1)]
+## Version 2024.1
+
+CDM release date: 09.09.2025
+
+Aka v2.1
 
 ### New data sources
+- Added 2024 incident cancer cases.
 - Added molecular diagnostics from the Norwegian Lung Cancer Registry.
 
 ### Clinical content
@@ -60,35 +71,39 @@ The changelog summarizes major changes to data content, ETL processes, mappings 
 - Updated observation periode.
 
 ### Vocabulary update
-Update to 27-08.2025
+Update to 27.08.2025
 
 ---
 
-## [2023.1 (~2.0)]
+## Version 2023.1
 
-CDM release date: 30-04-2025
+CDM release date: 30.04.2025
+
+Aka v2.0
 
 ### New data sources
 - Added 2022-2023 incident cancer cases.
 
 ### Clinical content
-- Added ECOG, TNM, Morpholigical grades
-- Added drug treatment
+- Added ECOG performance status, TNM staging, and morphological grade.
+- Added anticancer drug treatment
 
 ### ETL improvements
-- Updated observation periode.
-- removed custom codes
+- Updated observation period.
 - Added episode-based disease representation.
-- Minor mapping corrections 
+- removed custom codes.
+- Minor mapping corrections. 
 
 ### Vocabulary update
-Update to 30-08.2024
+Update to 30.08.2024.
 
 ---
 
-## [2022.1 (~1.0)]
+## Version 2021.1
 
-CDM release date: 01-27-2023
+CDM release date: 01.27.2023.
+
+Aka v1.0
 
 ### Initial release
 
