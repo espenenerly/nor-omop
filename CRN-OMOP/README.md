@@ -21,7 +21,7 @@ The mapping specifications contained in this repository are used to transform Ca
 
 Mapping specifications are organized by OMOP domain.
 
-Target concept IDs documented in these mapping specifications may be non-standard concepts. Final standard OMOP concepts are determined during ETL processing using active OMOP vocabulary relationships (e.g. "Maps to").
+The target concept IDs documented in these mapping specifications may be non-standard concepts. Final standard OMOP concepts are determined during ETL processing using active OMOP vocabulary relationships (e.g. "Maps to").
 
 Current domains include:
 
