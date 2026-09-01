@@ -8,7 +8,8 @@ This directory contains mapping specifications, documentation, and release infor
 
 **2025.1**
 
-Release 2025.1 represents the current recommended version of the CRN-OMOP mapping specifications.
+CDM release date: 27.07.2026
+Source data release data: 24.07.2026
 
 ## Scope
 
@@ -21,47 +22,14 @@ The mapping specifications contained in this repository are used to transform Ca
 Mapping specifications are organized by OMOP domain.
 
 Current domains include:
-
-- Condition Occurrence
-- Drug Exposure
-- Procedure Occurrence
 - Measurement
+- Procedure Occurrence
 - Observation
 
 ## Provenance and Metadata
 
-Detailed provenance information, source variable definitions, transformation logic, and metadata are maintained in the Cancer Registry of Norway ELVIS metadata repository.
-
-ELVIS serves as the authoritative source for:
-
-- Source variable definitions
-- Data lineage
-- ETL specifications
-- Transformation rules
-- Metadata management
-
-For detailed provenance information, refer to:
-
-**[Insert ELVIS URL]**
-
-## Release Management
-
-The latest approved mapping specifications are maintained in this repository.
-
-Historical versions are preserved through GitHub Releases and Git history to support reproducibility and transparency.
-
-## Changelog
-
-Notable changes between releases are documented in:
-
-**CHANGELOG.md**
-
-The changelog provides a high-level overview of:
-
-- Mapping updates
-- ETL changes
-- Vocabulary updates
-- Documentation updates
+Detailed source data provenance information are maintained in the Cancer Registry of Norway ELVIS metadata repository: 
+[[ELVIS](https://metadata.kreftregisteret.no/)]
 
 ## Releases
 
@@ -69,7 +37,14 @@ The changelog provides a high-level overview of:
 |----------|----------|
 | 2025.1 | Current |
 
+## Changelog
+
+Notable changes between releases are documented in:
+
+**CHANGELOG.md**
+
+See details: 
+
 ## Maintainer
 
 Cancer Registry of Norway
-``
